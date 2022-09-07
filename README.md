@@ -31,7 +31,7 @@ To run the evaluation, you only need run the script `evaluate_distnav_eth.py`. B
 
 If you enable `plotting` in the script `evaluate_distnav_eth.py`, you will see the visualization of each test frame, and the plotting will be saved under the same directory in `results`.
 
-We also provide a script to analyze the test results `analyze_results.py`.
+We also provide a script `analyze_results.py` to analyze the test results.
 
 ## Questions
 
